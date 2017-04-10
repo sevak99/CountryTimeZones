@@ -1,0 +1,223 @@
+1, AD, Andorra, Europe/Andorra
+2, AE, United Arab Emirates, Asia/Dubai
+3, AF, Afghanistan, Asia/Kabul
+4, AG, Antigua and Barbuda, America/Antigua
+5, AI, Anguilla, America/Anguilla
+6, AL, Albania, Europe/Tirane
+7, AM, Armenia, Asia/Yerevan
+8, AO, Angola, Africa/Luanda
+9, AQ, Antarctica, Antarctica/McMurdo
+10, AR, Argentina, America/Argentina/Buenos_Aires
+11, AS, American Samoa, Pacific/Pago_Pago
+12, AT, Austria, Europe/Vienna
+13, AU, Australia, Australia/Lord_Howe
+14, AW, Aruba, America/Aruba
+15, AX, �land Islands, Europe/Mariehamn
+16, AZ, Azerbaijan, Asia/Baku
+17, BA, Bosnia and Herzegovina, Europe/Sarajevo
+18, BB, Barbados, America/Barbados
+19, BD, Bangladesh, Asia/Dhaka
+20, BE, Belgium, Europe/Brussels
+21, BF, Burkina Faso, Africa/Ouagadougou
+22, BG, Bulgaria, Europe/Sofia
+23, BH, Bahrain, Asia/Bahrain
+24, BI, Burundi, Africa/Bujumbura
+25, BJ, Benin, Africa/Porto-Novo
+26, BL, Saint Barth�lemy, America/St_Barthelemy
+27, BM, Bermuda, Atlantic/Bermuda
+28, BN, Brunei Darussalam, Asia/Brunei
+29, BO, Bolivia, America/La_Paz
+30, BQ, Caribbean Netherlands , America/Kralendijk
+31, BR, Brazil, America/Noronha
+32, BS, Bahamas, America/Nassau
+33, BT, Bhutan, Asia/Thimphu
+34, BV, Bouvet Island, Not Time Zone
+35, BW, Botswana, Africa/Gaborone
+36, BY, Belarus, Europe/Minsk
+37, BZ, Belize, America/Belize
+38, CA, Canada, America/St_Johns
+39, CC, Cocos (Keeling) Islands, Indian/Cocos
+40, CD, "Congo, Africa/Kinshasa
+41, CF, Central African Republic, Africa/Bangui
+42, CG, Congo, Africa/Brazzaville
+43, CH, Switzerland, Europe/Zurich
+44, CI, C�te d'Ivoire, Africa/Abidjan
+45, CK, Cook Islands, Pacific/Rarotonga
+46, CL, Chile, America/Santiago
+47, CM, Cameroon, Africa/Douala
+48, CN, China, Asia/Shanghai
+49, CO, Colombia, America/Bogota
+50, CR, Costa Rica, America/Costa_Rica
+51, CU, Cuba, America/Havana
+52, CV, Cape Verde, Atlantic/Cape_Verde
+53, CW, Cura�ao, America/Curacao
+54, CX, Christmas Island, Indian/Christmas
+55, CY, Cyprus, Asia/Nicosia
+56, CZ, Czech Republic, Europe/Prague
+57, DE, Germany, Europe/Berlin
+58, DJ, Djibouti, Africa/Djibouti
+59, DK, Denmark, Europe/Copenhagen
+60, DM, Dominica, America/Dominica
+61, DO, Dominican Republic, America/Santo_Domingo
+62, DZ, Algeria, Africa/Algiers
+63, EC, Ecuador, America/Guayaquil
+64, EE, Estonia, Europe/Tallinn
+65, EG, Egypt, Africa/Cairo
+66, EH, Western Sahara, Africa/El_Aaiun
+67, ER, Eritrea, Africa/Asmara
+68, ES, Spain, Europe/Madrid
+69, ET, Ethiopia, Africa/Addis_Ababa
+70, FI, Finland, Europe/Helsinki
+71, FJ, Fiji, Pacific/Fiji
+72, FK, Falkland Islands, Atlantic/Stanley
+73, FM, "Micronesia, Pacific/Chuuk
+74, FO, Faroe Islands, Atlantic/Faroe
+75, FR, France, Europe/Paris
+76, GA, Gabon, Africa/Libreville
+77, GB, United Kingdom, Europe/London
+78, GD, Grenada, America/Grenada
+79, GE, Georgia, Asia/Tbilisi
+80, GF, French Guiana, America/Cayenne
+81, GG, Guernsey, Europe/Guernsey
+82, GH, Ghana, Africa/Accra
+83, GI, Gibraltar, Europe/Gibraltar
+84, GL, Greenland, America/Godthab
+85, GM, Gambia, Africa/Banjul
+86, GN, Guinea, Africa/Conakry
+87, GP, Guadeloupe, America/Guadeloupe
+88, GQ, Equatorial Guinea, Africa/Malabo
+89, GR, Greece, Europe/Athens
+90, GS, South Georgia and the South Sandwich Islands, Atlantic/South_Georgia
+91, GT, Guatemala, America/Guatemala
+92, GU, Guam, Pacific/Guam
+93, GW, Guinea-Bissau, Africa/Bissau
+94, GY, Guyana, America/Guyana
+95, HK, Hong Kong, Asia/Hong_Kong
+96, HM, Heard and McDonald Islands, Not Time Zone
+97, HN, Honduras, America/Tegucigalpa
+98, HR, Croatia, Europe/Zagreb
+99, HT, Haiti, America/Port-au-Prince
+100, HU, Hungary, Europe/Budapest
+101, ID, Indonesia, Asia/Jakarta
+102, IE, Ireland, Europe/Dublin
+103, IL, Israel, Asia/Jerusalem
+104, IM, Isle of Man, Europe/Isle_of_Man
+105, IN, India, Asia/Kolkata
+106, IO, British Indian Ocean Territory, Indian/Chagos
+107, IQ, Iraq, Asia/Baghdad
+108, IR, Iran, Asia/Tehran
+109, IS, Iceland, Atlantic/Reykjavik
+110, IT, Italy, Europe/Rome
+111, JE, Jersey, Europe/Jersey
+112, JM, Jamaica, America/Jamaica
+113, JO, Jordan, Asia/Amman
+114, JP, Japan, Asia/Tokyo
+115, KE, Kenya, Africa/Nairobi
+116, KG, Kyrgyzstan, Asia/Bishkek
+117, KH, Cambodia, Asia/Phnom_Penh
+118, KI, Kiribati, Pacific/Tarawa
+119, KM, Comoros, Indian/Comoro
+120, KN, Saint Kitts and Nevis, America/St_Kitts
+121, KP, North Korea, Asia/Pyongyang
+122, KR, South Korea, Asia/Seoul
+123, KW, Kuwait, Asia/Kuwait
+124, KY, Cayman Islands, America/Cayman
+125, KZ, Kazakhstan, Asia/Almaty
+126, LA, Lao People's Democratic Republic, Asia/Vientiane
+127, LB, Lebanon, Asia/Beirut
+128, LC, Saint Lucia, America/St_Lucia
+129, LI, Liechtenstein, Europe/Vaduz
+130, LK, Sri Lanka, Asia/Colombo
+131, LR, Liberia, Africa/Monrovia
+132, LS, Lesotho, Africa/Maseru
+133, LT, Lithuania, Europe/Vilnius
+134, LU, Luxembourg, Europe/Luxembourg
+135, LV, Latvia, Europe/Riga
+136, LY, Libya, Africa/Tripoli
+137, MA, Morocco, Africa/Casablanca
+138, MC, Monaco, Europe/Monaco
+139, MD, Moldova, Europe/Chisinau
+140, ME, Montenegro, Europe/Podgorica
+141, MF, Saint-Martin (France), America/Marigot
+142, MG, Madagascar, Indian/Antananarivo
+143, MH, Marshall Islands, Pacific/Majuro
+144, MK, Macedonia, Europe/Skopje
+145, ML, Mali, Africa/Bamako
+146, MM, Myanmar, Asia/Yangon
+147, MN, Mongolia, Asia/Ulaanbaatar
+148, MO, Macau, Asia/Macau
+149, MP, Northern Mariana Islands, Pacific/Saipan
+150, MQ, Martinique, America/Martinique
+151, MR, Mauritania, Africa/Nouakchott
+152, MS, Montserrat, America/Montserrat
+153, MT, Malta, Europe/Malta
+154, MU, Mauritius, Indian/Mauritius
+155, MV, Maldives, Indian/Maldives
+156, MW, Malawi, Africa/Blantyre
+157, MX, Mexico, America/Mexico_City
+158, MY, Malaysia, Asia/Kuala_Lumpur
+159, MZ, Mozambique, Africa/Maputo
+160, NA, Namibia, Africa/Windhoek
+161, NC, New Caledonia, Pacific/Noumea
+162, NE, Niger, Africa/Niamey
+163, NF, Norfolk Island, Pacific/Norfolk
+164, NG, Nigeria, Africa/Lagos
+165, NI, Nicaragua, America/Managua
+166, NL, The Netherlands, Europe/Amsterdam
+167, NO, Norway, Europe/Oslo
+168, NP, Nepal, Asia/Kathmandu
+169, NR, Nauru, Pacific/Nauru
+170, NU, Niue, Pacific/Niue
+171, NZ, New Zealand, Pacific/Auckland
+172, OM, Oman, Asia/Muscat
+173, PA, Panama, America/Panama
+174, PE, Peru, America/Lima
+175, PF, French Polynesia, Pacific/Tahiti
+176, PG, Papua New Guinea, Pacific/Port_Moresby
+177, PH, Philippines, Asia/Manila
+178, PK, Pakistan, Asia/Karachi
+179, PL, Poland, Europe/Warsaw
+180, PM, St. Pierre and Miquelon, America/Miquelon
+181, PN, Pitcairn, Pacific/Pitcairn
+182, PR, Puerto Rico, America/Puerto_Rico
+183, PS, "Palestine, Asia/Gaza
+184, PT, Portugal, Europe/Lisbon
+185, PW, Palau, Pacific/Palau
+186, PY, Paraguay, America/Asuncion
+187, QA, Qatar, Asia/Qatar
+188, RE, R�union, Indian/Reunion
+189, RO, Romania, Europe/Bucharest
+190, RS, Serbia, Europe/Belgrade
+191, RU, Russian Federation, Europe/Kaliningrad
+192, RW, Rwanda, Africa/Kigali
+193, SA, Saudi Arabia, Asia/Riyadh
+194, SB, Solomon Islands, Pacific/Guadalcanal
+195, SC, Seychelles, Indian/Mahe
+196, SD, Sudan, Africa/Khartoum
+197, SE, Sweden, Europe/Stockholm
+198, SG, Singapore, Asia/Singapore
+199, SH, Saint Helena, Atlantic/St_Helena
+200, SI, Slovenia, Europe/Ljubljana
+201, SJ, Svalbard and Jan Mayen Islands, Arctic/Longyearbyen
+202, SK, Slovakia, Europe/Bratislava
+203, SL, Sierra Leone, Africa/Freetown
+204, SM, San Marino, Europe/San_Marino
+205, SN, Senegal, Africa/Dakar
+206, SO, Somalia, Africa/Mogadishu
+207, SR, Suriname, America/Paramaribo
+208, SS, South Sudan, Africa/Juba
+209, ST, Sao Tome and Principe, Africa/Sao_Tome
+210, SV, El Salvador, America/El_Salvador
+211, SX, Sint Maarten (Dutch part), America/Lower_Princes
+212, SY, Syria, Asia/Damascus
+213, SZ, Swaziland, Africa/Mbabane
+214, TC, Turks and Caicos Islands, America/Grand_Turk
+215, TD, Chad, Africa/Ndjamena
+216, TF, French Southern Territories, Indian/Kerguelen
+217, TG, Togo, Africa/Lome
+218, TH, Thailand, Asia/Bangkok
+219, TJ, Tajikistan, Asia/Dushanbe
+220, TK, Tokelau, Pacific/Fakaofo
+221, TL, Timor-Leste, Asia/Dili
+222, TM, Turkmenistan, Asia/Ashgabat
+223, TN,
